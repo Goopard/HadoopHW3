@@ -1,0 +1,28 @@
+Testing started at 20:35 ...
+C:\Users\nicka\PycharmProjects\hadoop_hw3\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4\helpers\pycharm\_jb_unittest_runner.py" --path C:/Users/nicka/PycharmProjects/hadoop_hw3/src/tests/test_for_reducer.py
+Launching unittests with arguments python -m unittest C:/Users/nicka/PycharmProjects/hadoop_hw3/src/tests/test_for_reducer.py in C:\Users\nicka\PycharmProjects\hadoop_hw3\src\tests
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+
+
+Ran 4 tests in 0.030s
+
+OK
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.

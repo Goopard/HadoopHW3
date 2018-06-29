@@ -1,0 +1,2146 @@
+"unknown (GoogleTV)"	5
+"unknown (Mac OS X)"	2912
+"shaoxing (Ubuntu)"	1
+"quzhou (Ubuntu)"	1
+"taizhou (Ubuntu)"	1
+"106 (Ubuntu)"	2
+"hefei (Ubuntu)"	2
+"bangbu (Ubuntu)"	1
+"zhangjiakou (Android)"	368
+"zhangjiakou (Windows)"	3253
+"tongling (Gentoo)"	1
+"chuzhou (Ubuntu)"	1
+"chaohu (Ubuntu)"	1
+"chengde (Android)"	334
+"chengde (Windows)"	2745
+"fuzhou_124 (Ubuntu)"	1
+"xiamen (Ubuntu)"	2
+"putian (Ubuntu)"	1
+"quanzhou (Ubuntu)"	1
+"cangzhou (Android)"	762
+"cangzhou (Windows)"	6774
+"zhangzhou (Ubuntu)"	1
+"nanping (Ubuntu)"	1
+"xinyu (Ubuntu)"	1
+"langfang (Android)"	1539
+"langfang (Windows)"	8011
+"shangrao (Ubuntu)"	1
+"146 (Ubuntu)"	1
+"jinan (Ubuntu)"	5
+"qingdao (Ubuntu)"	2
+"hengshui (Android)"	415
+"hengshui (Windows)"	3799
+"yantai (Ubuntu)"	3
+"weifang (Fedora)"	1
+"linyi (Ubuntu)"	1
+"15 (Android)"	549
+"15 (Windows)"	4312
+"liaocheng (Ubuntu)"	1
+"binzhou (Ubuntu)"	1
+"heze (Ubuntu)"	2
+"luoyang (Ubuntu)"	1
+"anyang (Ubuntu)"	3
+"taiyuan (Android)"	2256
+"taiyuan (Windows)"	12274
+"xinyang (Ubuntu)"	1
+"datong (Android)"	542
+"datong (Windows)"	3828
+"wuhan (Ubuntu)"	4
+"xiangfan (Ubuntu)"	1
+"yangquan (Android)"	276
+"yangquan (Windows)"	2549
+"xiaogan (Ubuntu)"	1
+"changzhi (Android)"	457
+"changzhi (Windows)"	2761
+"1 (Mac OS X)"	2627
+"changsha (Ubuntu)"	1
+"changde (Ubuntu)"	1
+"jincheng (Android)"	325
+"jincheng (Windows)"	2332
+"yiyang (Ubuntu)"	1
+"216 (Ubuntu)"	14
+"guangzhou (Ubuntu)"	49
+"shenzhen (Ubuntu)"	62
+"shuozhou (Android)"	129
+"shuozhou (Windows)"	1135
+"zhuhai (Fedora)"	1
+"zhuhai (Ubuntu)"	8
+"shantou (Ubuntu)"	5
+"foshan (Ubuntu)"	6
+"jiangmen (Ubuntu)"	2
+"huizhou (Ubuntu)"	2
+"meizhou (Ubuntu)"	1
+"jinzhongshi (Android)"	505
+"jinzhongshi (Windows)"	3691
+"heyuan (Ubuntu)"	1
+"qingyuan (Ubuntu)"	1
+"dongguan (Ubuntu)"	11
+"zhongshan (Ubuntu)"	3
+"chaozhou (Ubuntu)"	1
+"yuncheng (Android)"	482
+"yuncheng (Windows)"	4598
+"fangchenggang (Ubuntu)"	1
+"qinzhou (Ubuntu)"	1
+"yulin_238 (Ubuntu)"	2
+"xinzhou (Android)"	319
+"xinzhou (Windows)"	2366
+"linfen (Android)"	566
+"linfen (Windows)"	3896
+"lvliang (Android)"	414
+"lvliang (Windows)"	3231
+"275 (Debian)"	1
+"275 (Ubuntu)"	4
+"276 (Ubuntu)"	2
+"chengdu (Ubuntu)"	13
+"27 (Android)"	259
+"27 (Windows)"	2517
+"huhehaote (Android)"	642
+"huhehaote (Windows)"	5370
+"ziyang (Ubuntu)"	1
+"baotou (Android)"	334
+"baotou (Windows)"	3434
+"2 (Mac OS X)"	283
+"kunming (Ubuntu)"	1
+"wuhai (Android)"	66
+"wuhai (Windows)"	929
+"chifeng (Android)"	243
+"chifeng (Windows)"	3486
+"tongliao (Android)"	189
+"tongliao (Windows)"	2747
+"xian (Fedora)"	2
+"xian (Kindle)"	1
+"xian (Ubuntu)"	9
+"eerduosi (Android)"	214
+"eerduosi (Windows)"	2321
+"lanzhou (Ubuntu)"	3
+"hulunbeier (Android)"	175
+"hulunbeier (Windows)"	2764
+"bayannaoer (Android)"	117
+"bayannaoer (Windows)"	1422
+"yinchuan (Ubuntu)"	1
+"wulanchabu (Android)"	120
+"wulanchabu (Windows)"	1078
+"kelamayi (Ubuntu)"	1
+"changji (Ubuntu)"	2
+"xingan (Android)"	108
+"xingan (Windows)"	1261
+"yili (Ubuntu)"	1
+"xilinguole (Android)"	83
+"xilinguole (Windows)"	1030
+"393 (Ubuntu)"	7
+"394 (Ubuntu)"	3
+"alashan (Android)"	40
+"alashan (Windows)"	480
+"3 (Mac OS X)"	13
+"40 (Android)"	286
+"40 (Windows)"	2618
+"shenyang (Android)"	1839
+"shenyang (Windows)"	15632
+"dalian (Android)"	785
+"dalian (Windows)"	13150
+"anshan (Android)"	487
+"anshan (Windows)"	5264
+"fushun (Android)"	363
+"fushun (Windows)"	3560
+"benxi (Android)"	475
+"benxi (Windows)"	3173
+"dandong (Android)"	308
+"dandong (Windows)"	3341
+"jinzhou (Android)"	377
+"jinzhou (Windows)"	4447
+"yingkou (Android)"	345
+"yingkou (Windows)"	3393
+"fuxin (Android)"	180
+"fuxin (Windows)"	2916
+"shijiazhuang (Mac OS X)"	58
+"liaoyang (Android)"	251
+"liaoyang (Windows)"	2557
+"panjin (Android)"	233
+"panjin (Windows)"	2643
+"tieling (Android)"	269
+"tieling (Windows)"	2736
+"chaoyang (Android)"	151
+"chaoyang (Windows)"	2605
+"huludao (Android)"	273
+"huludao (Windows)"	2923
+"changchun (Android)"	1992
+"changchun (Windows)"	16042
+"jilin_city (Android)"	750
+"jilin_city (Windows)"	8964
+"siping (Android)"	380
+"siping (Windows)"	3651
+"liaoyuan (Android)"	70
+"liaoyuan (Windows)"	1120
+"tangshan (Mac OS X)"	13
+"tonghua (Android)"	229
+"tonghua (Windows)"	2440
+"baishan (Android)"	154
+"baishan (Windows)"	1794
+"songyuan (Android)"	159
+"songyuan (Windows)"	2311
+"baicheng (Android)"	94
+"baicheng (Windows)"	1843
+"yanbian (Android)"	933
+"yanbian (Windows)"	3849
+"65 (Android)"	187
+"65 (Windows)"	2155
+"haerbin (Android)"	1687
+"haerbin (Windows)"	16754
+"qiqihaer (Android)"	408
+"qiqihaer (Windows)"	4682
+"jixi (Android)"	173
+"jixi (Windows)"	2009
+"hegang (Android)"	105
+"hegang (Windows)"	1422
+"qinhuangdao (Mac OS X)"	15
+"shuangyashan (Android)"	128
+"shuangyashan (Windows)"	2024
+"daqing (Android)"	540
+"daqing (Windows)"	5506
+"yichun_65 (Android)"	101
+"yichun_65 (Windows)"	1598
+"jiamusi (Android)"	354
+"jiamusi (Windows)"	3146
+"qitaihe (Android)"	68
+"qitaihe (Windows)"	1069
+"mudanjiang (Android)"	445
+"mudanjiang (Windows)"	4369
+"heihe (Android)"	137
+"heihe (Windows)"	1659
+"suihua (Android)"	284
+"suihua (Windows)"	3079
+"daxinganling (Android)"	48
+"daxinganling (Windows)"	606
+"79 (Android)"	9837
+"79 (Windows)"	47604
+"handan (Mac OS X)"	8
+"80 (Android)"	779
+"80 (Windows)"	6121
+"nanjing (Android)"	3431
+"nanjing (Red Hat)"	1
+"nanjing (Windows)"	21644
+"wuxi (Android)"	1982
+"wuxi (Windows)"	12431
+"xuzhou (Android)"	815
+"xuzhou (Windows)"	10136
+"changzhou (Android)"	1187
+"changzhou (Windows)"	7953
+"suzhou_jiangsu (Android)"	3529
+"suzhou_jiangsu (Windows)"	27512
+"nantong (Android)"	841
+"nantong (Windows)"	7716
+"lianyungang (Android)"	2338
+"lianyungang (Windows)"	4491
+"huaian (Android)"	506
+"huaian (Windows)"	3935
+"yancheng (Android)"	705
+"yancheng (Windows)"	5868
+"xingtai (Mac OS X)"	30
+"yangzhou (Android)"	576
+"yangzhou (Windows)"	6904
+"zhenjiang (Android)"	555
+"zhenjiang (Windows)"	4639
+"taizhou_jiangsu (Android)"	624
+"taizhou_jiangsu (Windows)"	4808
+"suqian (Android)"	420
+"suqian (Windows)"	3285
+"94 (Android)"	579
+"94 (Windows)"	3160
+"hangzhou (Android)"	5720
+"hangzhou (Windows)"	34570
+"ningbo (Android)"	3883
+"ningbo (Windows)"	14709
+"wenzhou (Android)"	6200
+"wenzhou (Windows)"	18165
+"jiaxing (Android)"	1619
+"jiaxing (Windows)"	9243
+"huzhou (Android)"	1228
+"huzhou (Windows)"	3739
+"baoding (Mac OS X)"	20
+"jiangmen (Chrome OS)"	2
+"dongguan (Symbian^3)"	1
+"deyang (Chrome OS)"	1
+"shenyang (Symbian OS)"	4
+"79 (Symbian OS)"	1
+"huzhou (Symbian OS)"	1
+"unknown (Android)"	1398
+"unknown (Red Hat)"	2
+"unknown (Windows)"	105737
+"shaoxing (Linux)"	1
+"shaoxing (Other)"	9
+"jinhua (Linux)"	2
+"jinhua (MeeGo)"	1
+"jinhua (Other)"	16
+"quzhou (Linux)"	1
+"quzhou (Other)"	6
+"zhoushan (Linux)"	1
+"zhoushan (Other)"	2
+"taizhou (Linux)"	1
+"taizhou (Other)"	9
+"lishui (Linux)"	2
+"lishui (Other)"	2
+"106 (Linux)"	5
+"106 (Other)"	17
+"hefei (Linux)"	3
+"hefei (Other)"	13
+"wuhu (Other)"	5
+"bangbu (Other)"	3
+"huainan (Linux)"	1
+"huainan (Other)"	1
+"maanshan (Linux)"	2
+"maanshan (Other)"	1
+"tongling (Linux)"	1
+"tongling (Other)"	1
+"anqing (Other)"	1
+"chuzhou (Other)"	1
+"fuyang (Other)"	3
+"suzhou (Other)"	5
+"chaohu (Linux)"	1
+"chaohu (Other)"	2
+"liuan (Linux)"	1
+"liuan (Other)"	1
+"chizhou (Linux)"	1
+"chizhou (Other)"	1
+"xuancheng (Linux)"	1
+"xuancheng (Other)"	3
+"124 (Linux)"	1
+"124 (Other)"	5
+"fuzhou_124 (Linux)"	5
+"fuzhou_124 (Maemo)"	2
+"fuzhou_124 (Other)"	20
+"xiamen (Linux)"	3
+"xiamen (Other)"	15
+"putian (Linux)"	1
+"putian (Other)"	4
+"sanming (Other)"	4
+"quanzhou (Linux)"	2
+"quanzhou (Other)"	19
+"zhangzhou (Linux)"	4
+"zhangzhou (Other)"	2
+"nanping (Other)"	2
+"longyan (Linux)"	1
+"longyan (Other)"	3
+"ningde (Other)"	5
+"134 (Linux)"	1
+"134 (Other)"	1
+"nanchang (Linux)"	5
+"nanchang (Other)"	19
+"jingdezhen (Linux)"	1
+"jingdezhen (Other)"	1
+"jiujiang (Other)"	6
+"yingtan (Other)"	1
+"ganzhou (Linux)"	1
+"ganzhou (Other)"	5
+"jian (Other)"	4
+"yichun_134 (Other)"	4
+"fuzhou_134 (Other)"	1
+"shangrao (Other)"	6
+"146 (Linux)"	3
+"146 (Other)"	7
+"jinan (Linux)"	21
+"jinan (Other)"	19
+"qingdao (Linux)"	11
+"qingdao (MeeGo)"	1
+"qingdao (Other)"	13
+"zibo (Linux)"	2
+"zibo (Other)"	4
+"zaozhuang (Linux)"	1
+"zaozhuang (Other)"	6
+"dongying (Linux)"	3
+"dongying (Other)"	8
+"yantai (Linux)"	8
+"yantai (Other)"	8
+"weifang (Linux)"	5
+"weifang (MeeGo)"	1
+"weifang (Other)"	9
+"jining (Linux)"	1
+"jining (Other)"	7
+"taian (Other)"	4
+"weihai (Linux)"	1
+"weihai (Other)"	2
+"rizhao (Other)"	2
+"laiwu (Other)"	3
+"linyi (Linux)"	1
+"linyi (Other)"	9
+"dezhou (Linux)"	2
+"dezhou (Other)"	3
+"liaocheng (Linux)"	1
+"liaocheng (Other)"	2
+"binzhou (Linux)"	2
+"binzhou (Other)"	2
+"heze (Linux)"	2
+"heze (Other)"	1
+"164 (Linux)"	2
+"164 (Other)"	5
+"zhengzhou (Linux)"	11
+"zhengzhou (Other)"	25
+"kaifeng (Linux)"	1
+"kaifeng (Other)"	5
+"luoyang (Linux)"	3
+"luoyang (Other)"	6
+"pingdingshan (Linux)"	3
+"pingdingshan (Other)"	6
+"anyang (Other)"	10
+"hebi (Linux)"	1
+"hebi (Other)"	4
+"xinxiang (Linux)"	3
+"xinxiang (Other)"	7
+"jiaozuo (Linux)"	2
+"jiaozuo (Other)"	3
+"puyang (Other)"	2
+"xuchang (Other)"	6
+"luohe (Other)"	1
+"sanmenxia (Linux)"	2
+"sanmenxia (Other)"	1
+"nanyang (Linux)"	3
+"nanyang (Other)"	3
+"shangqiu (Linux)"	5
+"shangqiu (Other)"	8
+"xinyang (Linux)"	3
+"xinyang (Other)"	10
+"zhoukou (Linux)"	1
+"zhoukou (Other)"	2
+"zhumadian (Linux)"	1
+"zhumadian (Other)"	3
+"183 (Other)"	1
+"wuhan (Linux)"	11
+"wuhan (MeeGo)"	3
+"wuhan (Other)"	48
+"huangshi (Linux)"	1
+"huangshi (Other)"	1
+"shiyan (Linux)"	2
+"shiyan (Other)"	2
+"yichang (Linux)"	1
+"yichang (Other)"	1
+"xiangfan (Linux)"	2
+"xiangfan (Other)"	2
+"ezhou (Linux)"	2
+"ezhou (Other)"	4
+"jingmen (Linux)"	3
+"jingmen (Other)"	2
+"xiaogan (Linux)"	2
+"xiaogan (Other)"	3
+"jingzhou (Other)"	2
+"huanggang (Linux)"	3
+"huanggang (Other)"	8
+"xianning (Linux)"	3
+"xianning (Other)"	1
+"suizhou (Linux)"	1
+"suizhou (Other)"	1
+"enshishi (Other)"	1
+"1 (Android)"	14813
+"1 (Windows)"	76984
+"201 (Linux)"	3
+"201 (Other)"	3
+"changsha (Linux)"	13
+"changsha (Other)"	50
+"zhuzhou (Linux)"	3
+"zhuzhou (Other)"	8
+"xiangtan (Linux)"	1
+"xiangtan (Other)"	6
+"hengyang (Linux)"	1
+"hengyang (Other)"	8
+"shaoyang (Linux)"	2
+"shaoyang (Other)"	1
+"yueyang (Linux)"	1
+"yueyang (Other)"	5
+"changde (Linux)"	1
+"changde (Other)"	1
+"zhangjiajie (Other)"	1
+"yiyang (Linux)"	1
+"yiyang (Other)"	4
+"chenzhou (Other)"	3
+"yongzhou (Other)"	4
+"huaihua (Linux)"	2
+"loudi (Linux)"	2
+"loudi (Other)"	2
+"xiangxi (Other)"	1
+"216 (Linux)"	44
+"216 (Other)"	48
+"guangzhou (Linux)"	92
+"guangzhou (MeeGo)"	2
+"guangzhou (Other)"	389
+"guangzhou (webOS)"	1
+"shaoguan (Maemo)"	1
+"shaoguan (Other)"	20
+"shenzhen (Linux)"	133
+"shenzhen (Other)"	254
+"zhuhai (Linux)"	16
+"zhuhai (Other)"	601
+"shantou (Linux)"	6
+"shantou (MeeGo)"	1
+"shantou (Other)"	36
+"foshan (Linux)"	25
+"foshan (Other)"	79
+"foshan (webOS)"	2
+"jiangmen (Linux)"	14
+"jiangmen (MeeGo)"	1
+"jiangmen (Other)"	28
+"zhanjiang (Linux)"	10
+"zhanjiang (Other)"	29
+"maoming (Linux)"	3
+"maoming (Other)"	20
+"zhaoqing (Linux)"	4
+"zhaoqing (Other)"	15
+"huizhou (Linux)"	12
+"huizhou (MeeGo)"	1
+"huizhou (Other)"	45
+"meizhou (Linux)"	4
+"meizhou (Other)"	13
+"shanwei (Linux)"	2
+"shanwei (Other)"	6
+"heyuan (Linux)"	4
+"heyuan (Other)"	9
+"yangjiang (Linux)"	1
+"yangjiang (Other)"	12
+"qingyuan (Linux)"	2
+"qingyuan (Other)"	11
+"dongguan (Linux)"	25
+"dongguan (MeeGo)"	1
+"dongguan (Other)"	98
+"zhongshan (Linux)"	6
+"zhongshan (Other)"	48
+"chaozhou (Linux)"	3
+"chaozhou (Other)"	6
+"jieyang (Linux)"	5
+"jieyang (Other)"	19
+"yunfu (Other)"	5
+"238 (Linux)"	1
+"238 (Other)"	7
+"nanning (Linux)"	12
+"nanning (Other)"	16
+"liuzhou (Linux)"	2
+"liuzhou (Other)"	8
+"guilin (Linux)"	3
+"guilin (Other)"	5
+"wuzhou (Linux)"	3
+"wuzhou (Other)"	2
+"beihai (Other)"	2
+"fangchenggang (Linux)"	1
+"fangchenggang (Other)"	3
+"qinzhou (Linux)"	3
+"qinzhou (Other)"	3
+"guigang (Other)"	2
+"yulin_238 (Linux)"	1
+"yulin_238 (Other)"	7
+"baise (Other)"	4
+"hezhou (Other)"	1
+"hechi (Linux)"	1
+"hechi (Other)"	4
+"253 (Other)"	2
+"haikou (Linux)"	4
+"haikou (Other)"	17
+"sanya (Other)"	1
+"275 (Linux)"	20
+"275 (Other)"	47
+"276 (Linux)"	1
+"276 (Other)"	7
+"chengdu (Linux)"	20
+"chengdu (Other)"	50
+"zigong (Linux)"	1
+"zigong (Other)"	2
+"panzhihua (Other)"	1
+"luzhou (Linux)"	1
+"luzhou (Other)"	4
+"deyang (Linux)"	1
+"deyang (Other)"	5
+"mianyang (Linux)"	1
+"mianyang (Other)"	6
+"guangyuan (Other)"	1
+"suining (Other)"	1
+"neijiang (Other)"	2
+"leshan (Linux)"	2
+"leshan (Other)"	4
+"nanchong (Linux)"	1
+"nanchong (Other)"	1
+"meishan (Other)"	2
+"yibin (Linux)"	2
+"yibin (Other)"	3
+"guangan (Linux)"	1
+"guangan (Other)"	3
+"dazhou (Linux)"	1
+"dazhou (Other)"	1
+"yaan (Other)"	1
+"bazhong (Other)"	1
+"ziyang (Linux)"	1
+"aba (Other)"	1
+"liangshan (Other)"	3
+"guiyang (Linux)"	2
+"guiyang (Other)"	8
+"2 (Android)"	9780
+"2 (Windows)"	30016
+"liupanshui (Other)"	1
+"zunyi (Linux)"	3
+"zunyi (Other)"	2
+"anshun (Linux)"	1
+"anshun (Other)"	4
+"qianxinan (Linux)"	2
+"qianxinan (Other)"	1
+"qiandongnan (Other)"	2
+"qiannan (Other)"	1
+"308 (Other)"	1
+"kunming (Linux)"	11
+"kunming (MeeGo)"	1
+"kunming (Other)"	26
+"qujing (Linux)"	1
+"qujing (Other)"	2
+"yuxi (Linux)"	1
+"yuxi (Other)"	1
+"zhaotong (Linux)"	1
+"zhaotong (Other)"	1
+"lincang (Other)"	1
+"chuxiong (Other)"	1
+"honghe (Linux)"	1
+"honghe (Other)"	4
+"xishuangbanna (Other)"	1
+"dali (Other)"	3
+"nujiang (Other)"	1
+"diqing (Other)"	1
+"lasa (Other)"	1
+"333 (Linux)"	2
+"333 (Other)"	2
+"xian (Linux)"	19
+"xian (Other)"	45
+"baoji (Linux)"	3
+"baoji (Other)"	1
+"xianyang (Linux)"	1
+"xianyang (Other)"	3
+"weinan (Linux)"	3
+"weinan (Other)"	3
+"yanan (Linux)"	1
+"yanan (Other)"	1
+"hanzhong (Linux)"	1
+"hanzhong (Other)"	1
+"yulin_333 (Other)"	3
+"shangluo (Other)"	2
+"344 (Other)"	2
+"lanzhou (Linux)"	5
+"lanzhou (Other)"	5
+"jinchang (Other)"	1
+"zhangye (Other)"	1
+"jiuquan (Other)"	2
+"dingxi (Other)"	1
+"longnan (Other)"	1
+"xining (Other)"	4
+"368 (Other)"	1
+"yinchuan (Linux)"	1
+"yinchuan (Other)"	2
+"shizuishan (Linux)"	1
+"shizuishan (Other)"	2
+"wuzhong (Other)"	1
+"wulumuqi (Linux)"	7
+"wulumuqi (Other)"	7
+"kelamayi (Other)"	1
+"tulufan (Other)"	1
+"hami (Other)"	1
+"changji (Other)"	2
+"bayinguoleng (Linux)"	1
+"bayinguoleng (Other)"	4
+"akesu (Other)"	3
+"yili (Linux)"	4
+"yili (Other)"	3
+"aletai (Other)"	1
+"393 (Linux)"	40
+"393 (Other)"	9
+"394 (Linux)"	12
+"394 (Other)"	6
+"395 (Linux)"	2
+"396 (Other)"	1
+"397 (Linux)"	1
+"397 (Other)"	14
+"398 (Other)"	1
+"3 (Android)"	681
+"3 (Windows)"	4784
+"shenyang (Ubuntu)"	3
+"dalian (Ubuntu)"	2
+"dandong (Ubuntu)"	2
+"yingkou (Ubuntu)"	1
+"shijiazhuang (Android)"	2671
+"shijiazhuang (Windows)"	20092
+"liaoyang (Ubuntu)"	1
+"panjin (Ubuntu)"	1
+"chaoyang (Ubuntu)"	1
+"changchun (Ubuntu)"	2
+"jilin_city (Ubuntu)"	1
+"tangshan (Android)"	1085
+"tangshan (Windows)"	9618
+"haerbin (Ubuntu)"	3
+"qinhuangdao (Android)"	583
+"qinhuangdao (Windows)"	4711
+"yichun_65 (Ubuntu)"	1
+"mudanjiang (Ubuntu)"	1
+"79 (CentOS)"	1
+"79 (Ubuntu)"	21
+"handan (Android)"	870
+"handan (Windows)"	7234
+"nanjing (Ubuntu)"	10
+"wuxi (Fedora)"	1
+"wuxi (Ubuntu)"	1
+"xuzhou (Ubuntu)"	3
+"suzhou_jiangsu (Ubuntu)"	6
+"lianyungang (Ubuntu)"	1
+"yancheng (Debian)"	1
+"xingtai (Android)"	1242
+"xingtai (Windows)"	8149
+"yangzhou (Debian)"	1
+"zhenjiang (Ubuntu)"	2
+"hangzhou (Fedora)"	1
+"hangzhou (Ubuntu)"	8
+"ningbo (Ubuntu)"	1
+"wenzhou (Ubuntu)"	2
+"jiaxing (Ubuntu)"	2
+"baoding (Android)"	1411
+"baoding (Windows)"	11982
+"unknown (iOS)"	3934
+"1 (iOS)"	2202
+"2 (iOS)"	746
+"3 (iOS)"	81
+"shijiazhuang (iOS)"	331
+"tangshan (iOS)"	172
+"qinhuangdao (iOS)"	75
+"handan (iOS)"	100
+"xingtai (iOS)"	122
+"baoding (iOS)"	145
+"unknown (BREW)"	1
+"zhangjiakou (iOS)"	47
+"chengde (iOS)"	36
+"cangzhou (iOS)"	86
+"langfang (iOS)"	130
+"hengshui (iOS)"	30
+"15 (iOS)"	47
+"taiyuan (iOS)"	314
+"datong (iOS)"	63
+"yangquan (iOS)"	59
+"changzhi (iOS)"	34
+"jincheng (iOS)"	46
+"shuozhou (iOS)"	12
+"jinzhongshi (iOS)"	52
+"yuncheng (iOS)"	52
+"xinzhou (iOS)"	25
+"linfen (iOS)"	67
+"lvliang (iOS)"	46
+"27 (iOS)"	48
+"huhehaote (iOS)"	115
+"baotou (iOS)"	93
+"wuhai (iOS)"	14
+"chifeng (iOS)"	47
+"tongliao (iOS)"	25
+"eerduosi (iOS)"	32
+"hulunbeier (iOS)"	24
+"bayannaoer (iOS)"	26
+"wulanchabu (iOS)"	21
+"xingan (iOS)"	9
+"xilinguole (iOS)"	14
+"alashan (iOS)"	7
+"40 (iOS)"	110
+"shenyang (iOS)"	306
+"dalian (iOS)"	312
+"anshan (iOS)"	103
+"fushun (iOS)"	54
+"benxi (iOS)"	46
+"dandong (iOS)"	48
+"jinzhou (iOS)"	76
+"yingkou (iOS)"	53
+"fuxin (iOS)"	46
+"shijiazhuang (Bada)"	1
+"liaoyang (iOS)"	54
+"panjin (iOS)"	53
+"tieling (iOS)"	38
+"chaoyang (iOS)"	22
+"huludao (iOS)"	41
+"changchun (iOS)"	342
+"jilin_city (iOS)"	136
+"siping (iOS)"	44
+"liaoyuan (iOS)"	15
+"tonghua (iOS)"	34
+"baishan (iOS)"	27
+"songyuan (iOS)"	26
+"baicheng (iOS)"	13
+"yanbian (iOS)"	43
+"65 (iOS)"	39
+"haerbin (iOS)"	354
+"qiqihaer (iOS)"	56
+"jixi (iOS)"	20
+"hegang (iOS)"	11
+"shuangyashan (iOS)"	16
+"daqing (iOS)"	98
+"yichun_65 (iOS)"	16
+"jiamusi (iOS)"	47
+"qitaihe (iOS)"	11
+"mudanjiang (iOS)"	57
+"heihe (iOS)"	12
+"suihua (iOS)"	34
+"daxinganling (iOS)"	3
+"79 (iOS)"	1485
+"80 (iOS)"	149
+"nanjing (iOS)"	589
+"wuxi (iOS)"	303
+"xuzhou (iOS)"	173
+"changzhou (iOS)"	161
+"suzhou_jiangsu (iOS)"	579
+"nantong (iOS)"	171
+"lianyungang (iOS)"	68
+"huaian (iOS)"	64
+"yancheng (iOS)"	110
+"yangzhou (iOS)"	121
+"zhenjiang (iOS)"	96
+"taizhou_jiangsu (iOS)"	77
+"suqian (iOS)"	45
+"94 (iOS)"	57
+"hangzhou (iOS)"	829
+"ningbo (iOS)"	257
+"wenzhou (iOS)"	296
+"jiaxing (iOS)"	197
+"huzhou (iOS)"	81
+"unknown (Linux)"	258
+"unknown (Other)"	161
+"shaoxing (iOS)"	171
+"jinhua (iOS)"	196
+"quzhou (iOS)"	75
+"zhoushan (iOS)"	49
+"taizhou (iOS)"	171
+"lishui (iOS)"	40
+"106 (iOS)"	219
+"hefei (iOS)"	211
+"wuhu (iOS)"	41
+"bangbu (iOS)"	38
+"huainan (iOS)"	45
+"maanshan (iOS)"	43
+"huaibei (iOS)"	25
+"tongling (iOS)"	18
+"anqing (iOS)"	13
+"huangshan (iOS)"	23
+"chuzhou (iOS)"	6
+"fuyang (iOS)"	5
+"suzhou (iOS)"	29
+"chaohu (iOS)"	19
+"liuan (iOS)"	26
+"bozhou (iOS)"	20
+"chizhou (iOS)"	9
+"xuancheng (iOS)"	23
+"124 (iOS)"	34
+"fuzhou_124 (iOS)"	364
+"xiamen (iOS)"	234
+"putian (iOS)"	38
+"sanming (iOS)"	37
+"quanzhou (iOS)"	182
+"zhangzhou (iOS)"	48
+"nanping (iOS)"	19
+"longyan (iOS)"	40
+"ningde (iOS)"	33
+"134 (iOS)"	55
+"nanchang (iOS)"	184
+"jingdezhen (iOS)"	23
+"pingxiang (iOS)"	27
+"jiujiang (iOS)"	55
+"xinyu (iOS)"	17
+"yingtan (iOS)"	9
+"ganzhou (iOS)"	81
+"jian (iOS)"	26
+"yichun_134 (iOS)"	36
+"fuzhou_134 (iOS)"	38
+"shangrao (iOS)"	47
+"146 (iOS)"	95
+"jinan (iOS)"	251
+"qingdao (iOS)"	362
+"zibo (iOS)"	80
+"zaozhuang (iOS)"	48
+"dongying (iOS)"	70
+"yantai (iOS)"	154
+"weifang (iOS)"	64
+"jining (iOS)"	82
+"taian (iOS)"	62
+"weihai (iOS)"	58
+"rizhao (iOS)"	53
+"laiwu (iOS)"	14
+"linyi (iOS)"	83
+"dezhou (iOS)"	30
+"liaocheng (iOS)"	52
+"binzhou (iOS)"	39
+"heze (iOS)"	34
+"164 (iOS)"	48
+"zhengzhou (iOS)"	462
+"kaifeng (iOS)"	48
+"luoyang (iOS)"	141
+"pingdingshan (iOS)"	62
+"anyang (iOS)"	45
+"hebi (iOS)"	37
+"xinxiang (iOS)"	86
+"jiaozuo (iOS)"	86
+"puyang (iOS)"	32
+"xuchang (iOS)"	52
+"luohe (iOS)"	44
+"sanmenxia (iOS)"	41
+"nanyang (iOS)"	69
+"shangqiu (iOS)"	71
+"xinyang (iOS)"	63
+"zhoukou (iOS)"	60
+"zhumadian (iOS)"	33
+"183 (iOS)"	59
+"wuhan (iOS)"	770
+"huangshi (iOS)"	36
+"shiyan (iOS)"	43
+"yichang (iOS)"	76
+"xiangfan (iOS)"	56
+"ezhou (iOS)"	53
+"jingmen (iOS)"	42
+"xiaogan (iOS)"	58
+"jingzhou (iOS)"	68
+"huanggang (iOS)"	62
+"xianning (iOS)"	32
+"suizhou (iOS)"	56
+"enshishi (iOS)"	37
+"1 (Linux)"	191
+"1 (Other)"	110
+"201 (iOS)"	57
+"changsha (iOS)"	334
+"zhuzhou (iOS)"	65
+"xiangtan (iOS)"	42
+"hengyang (iOS)"	73
+"shaoyang (iOS)"	50
+"yueyang (iOS)"	54
+"changde (iOS)"	44
+"zhangjiajie (iOS)"	11
+"yiyang (iOS)"	24
+"chenzhou (iOS)"	25
+"yongzhou (iOS)"	37
+"huaihua (iOS)"	33
+"loudi (iOS)"	25
+"xiangxi (iOS)"	16
+"216 (iOS)"	511
+"guangzhou (iOS)"	2823
+"shaoguan (iOS)"	75
+"shenzhen (iOS)"	2869
+"zhuhai (iOS)"	328
+"shantou (iOS)"	187
+"foshan (iOS)"	709
+"jiangmen (iOS)"	314
+"zhanjiang (iOS)"	146
+"maoming (iOS)"	75
+"zhaoqing (iOS)"	83
+"huizhou (iOS)"	250
+"meizhou (iOS)"	71
+"shanwei (iOS)"	51
+"heyuan (iOS)"	48
+"yangjiang (iOS)"	65
+"qingyuan (iOS)"	172
+"dongguan (iOS)"	663
+"zhongshan (iOS)"	246
+"chaozhou (iOS)"	51
+"jieyang (iOS)"	61
+"yunfu (iOS)"	32
+"238 (iOS)"	47
+"nanning (iOS)"	262
+"liuzhou (iOS)"	128
+"guilin (iOS)"	87
+"wuzhou (iOS)"	65
+"beihai (iOS)"	29
+"fangchenggang (iOS)"	30
+"qinzhou (iOS)"	21
+"guigang (iOS)"	26
+"yulin_238 (iOS)"	61
+"baise (iOS)"	17
+"hezhou (iOS)"	10
+"hechi (iOS)"	20
+"laibin (iOS)"	10
+"chongzuo (iOS)"	7
+"253 (iOS)"	8
+"haikou (iOS)"	228
+"sanya (iOS)"	10
+"275 (iOS)"	701
+"276 (iOS)"	152
+"chengdu (iOS)"	869
+"zigong (iOS)"	34
+"panzhihua (iOS)"	22
+"luzhou (iOS)"	43
+"deyang (iOS)"	69
+"mianyang (iOS)"	114
+"guangyuan (iOS)"	18
+"suining (iOS)"	31
+"neijiang (iOS)"	34
+"leshan (iOS)"	64
+"nanchong (iOS)"	80
+"meishan (iOS)"	49
+"yibin (iOS)"	43
+"guangan (iOS)"	25
+"dazhou (iOS)"	43
+"yaan (iOS)"	28
+"bazhong (iOS)"	18
+"ziyang (iOS)"	31
+"aba (iOS)"	4
+"ganzi (iOS)"	11
+"liangshan (iOS)"	31
+"guiyang (iOS)"	211
+"2 (Linux)"	37
+"2 (Other)"	56
+"liupanshui (iOS)"	19
+"zunyi (iOS)"	56
+"anshun (iOS)"	24
+"tongren (iOS)"	22
+"qianxinan (iOS)"	31
+"bijie (iOS)"	21
+"qiandongnan (iOS)"	22
+"qiannan (iOS)"	33
+"308 (iOS)"	20
+"kunming (iOS)"	277
+"qujing (iOS)"	13
+"yuxi (iOS)"	31
+"baoshan (iOS)"	3
+"zhaotong (iOS)"	20
+"lijiang (iOS)"	17
+"puer (iOS)"	10
+"lincang (iOS)"	4
+"chuxiong (iOS)"	7
+"honghe (iOS)"	38
+"wenshan (iOS)"	10
+"xishuangbanna (iOS)"	10
+"dali (iOS)"	15
+"dehong (iOS)"	5
+"325 (iOS)"	1
+"lasa (iOS)"	7
+"changdu (iOS)"	1
+"shannan (iOS)"	1
+"ali (iOS)"	1
+"linzhi (iOS)"	1
+"333 (iOS)"	62
+"xian (iOS)"	572
+"tongzhou (iOS)"	9
+"baoji (iOS)"	52
+"xianyang (iOS)"	53
+"weinan (iOS)"	38
+"yanan (iOS)"	14
+"hanzhong (iOS)"	34
+"yulin_333 (iOS)"	40
+"ankang (iOS)"	16
+"shangluo (iOS)"	25
+"344 (iOS)"	11
+"lanzhou (iOS)"	125
+"jiayuguan (iOS)"	9
+"jinchang (iOS)"	8
+"baiyin (iOS)"	11
+"tianshui (iOS)"	12
+"wuwei (iOS)"	5
+"zhangye (iOS)"	8
+"pingliang (iOS)"	16
+"jiuquan (iOS)"	10
+"qingyang (iOS)"	13
+"dingxi (iOS)"	2
+"longnan (iOS)"	4
+"linxia (iOS)"	2
+"gannan (iOS)"	1
+"359 (iOS)"	1
+"xining (iOS)"	39
+"haidong (iOS)"	4
+"haibei (iOS)"	1
+"hainanzangzu (iOS)"	1
+"guoluo (iOS)"	1
+"haixi (iOS)"	6
+"368 (iOS)"	9
+"yinchuan (iOS)"	54
+"shizuishan (iOS)"	13
+"wuzhong (iOS)"	2
+"guyuan (iOS)"	1
+"zhongwei (iOS)"	6
+"wulumuqi (iOS)"	183
+"kelamayi (iOS)"	22
+"hami (iOS)"	16
+"changji (iOS)"	22
+"boertala (iOS)"	6
+"bayinguoleng (iOS)"	23
+"akesu (iOS)"	12
+"kezilesukeerkezi (iOS)"	1
+"kashi (iOS)"	8
+"hetian (iOS)"	3
+"yili (iOS)"	28
+"tacheng (iOS)"	8
+"aletai (iOS)"	3
+"393 (iOS)"	430
+"394 (iOS)"	458
+"395 (iOS)"	101
+"396 (iOS)"	2
+"397 (iOS)"	66
+"399 (iOS)"	38
+"3 (Linux)"	2
+"3 (Other)"	6
+"shijiazhuang (Linux)"	14
+"shijiazhuang (Other)"	12
+"tangshan (Linux)"	4
+"tangshan (Other)"	12
+"qinhuangdao (Linux)"	2
+"qinhuangdao (Other)"	2
+"handan (Linux)"	5
+"handan (Other)"	9
+"lianyungang (BREW)"	1
+"xingtai (Linux)"	1
+"xingtai (Other)"	15
+"baoding (Linux)"	4
+"baoding (Other)"	14
+"unknown (Ubuntu)"	63
+"zhangjiakou (Linux)"	2
+"zhangjiakou (Other)"	6
+"chengde (Other)"	2
+"cangzhou (Linux)"	4
+"cangzhou (Other)"	9
+"langfang (Linux)"	2
+"langfang (MeeGo)"	1
+"langfang (Other)"	9
+"hengshui (Linux)"	1
+"hengshui (Other)"	4
+"15 (Linux)"	3
+"15 (Other)"	2
+"taiyuan (Linux)"	18
+"taiyuan (Other)"	42
+"datong (Other)"	3
+"yangquan (Linux)"	3
+"yangquan (Other)"	2
+"changzhi (Linux)"	1
+"changzhi (Other)"	4
+"1 (Ubuntu)"	36
+"jincheng (Linux)"	1
+"jincheng (Other)"	1
+"guangzhou (SUSE)"	1
+"shuozhou (Other)"	2
+"jinzhongshi (Linux)"	1
+"zhongshan (SUSE)"	2
+"yuncheng (Linux)"	1
+"yuncheng (Other)"	1
+"xinzhou (Linux)"	1
+"xinzhou (Other)"	2
+"linfen (Linux)"	1
+"lvliang (Linux)"	3
+"lvliang (Other)"	6
+"27 (Other)"	3
+"huhehaote (Linux)"	5
+"huhehaote (MeeGo)"	1
+"huhehaote (Other)"	11
+"baotou (Linux)"	2
+"baotou (Other)"	3
+"2 (Ubuntu)"	12
+"wuhai (Linux)"	1
+"chifeng (Linux)"	1
+"chifeng (Other)"	4
+"tongliao (Other)"	1
+"eerduosi (Linux)"	3
+"eerduosi (Other)"	2
+"hulunbeier (Other)"	4
+"bayannaoer (Linux)"	1
+"wulanchabu (Other)"	1
+"wulumuqi (Bada)"	1
+"xilinguole (Other)"	1
+"393 (Bada)"	2
+"394 (Bada)"	1
+"395 (Bada)"	2
+"40 (Linux)"	3
+"40 (Other)"	5
+"shenyang (Linux)"	12
+"shenyang (Other)"	25
+"dalian (Linux)"	10
+"dalian (Other)"	6
+"anshan (Linux)"	1
+"anshan (Other)"	8
+"fushun (Linux)"	3
+"fushun (Other)"	3
+"benxi (Linux)"	3
+"benxi (Other)"	4
+"dandong (Linux)"	1
+"dandong (Other)"	3
+"jinzhou (Linux)"	1
+"jinzhou (Other)"	9
+"yingkou (Other)"	1
+"fuxin (Linux)"	3
+"shijiazhuang (Ubuntu)"	2
+"liaoyang (Linux)"	1
+"liaoyang (MeeGo)"	1
+"liaoyang (Other)"	3
+"panjin (Linux)"	1
+"panjin (Other)"	1
+"tieling (Linux)"	1
+"tieling (Other)"	4
+"chaoyang (Linux)"	1
+"chaoyang (Other)"	1
+"huludao (Linux)"	2
+"huludao (Other)"	2
+"changchun (Linux)"	9
+"changchun (Other)"	18
+"jilin_city (Linux)"	3
+"jilin_city (Other)"	9
+"siping (Linux)"	4
+"siping (Other)"	7
+"liaoyuan (Linux)"	1
+"liaoyuan (Other)"	2
+"tonghua (Linux)"	1
+"tonghua (Other)"	1
+"baishan (Linux)"	2
+"baishan (Other)"	1
+"songyuan (Other)"	1
+"baicheng (Other)"	3
+"yanbian (Linux)"	1
+"yanbian (Other)"	7
+"65 (Linux)"	1
+"65 (Other)"	4
+"haerbin (Linux)"	7
+"haerbin (MeeGo)"	1
+"haerbin (Other)"	35
+"qiqihaer (Linux)"	1
+"qiqihaer (Other)"	23
+"jixi (Other)"	3
+"hegang (Linux)"	1
+"daqing (Linux)"	4
+"daqing (Other)"	18
+"jiamusi (Linux)"	2
+"jiamusi (Other)"	10
+"mudanjiang (Linux)"	1
+"mudanjiang (Other)"	28
+"heihe (Other)"	3
+"suihua (Linux)"	1
+"daxinganling (Other)"	2
+"79 (Linux)"	56
+"79 (Maemo)"	1
+"79 (Other)"	83
+"80 (Linux)"	1
+"80 (Other)"	8
+"nanjing (Linux)"	23
+"nanjing (MeeGo)"	2
+"nanjing (Other)"	42
+"wuxi (Linux)"	2
+"wuxi (Other)"	20
+"xuzhou (Linux)"	3
+"xuzhou (Other)"	14
+"changzhou (Linux)"	3
+"changzhou (Other)"	3
+"suzhou_jiangsu (Linux)"	12
+"suzhou_jiangsu (Other)"	33
+"nantong (Linux)"	6
+"nantong (Other)"	10
+"lianyungang (Linux)"	2
+"lianyungang (Other)"	5
+"huaian (Linux)"	1
+"huaian (Other)"	6
+"yancheng (Linux)"	2
+"yancheng (Other)"	5
+"yangzhou (Linux)"	2
+"yangzhou (MeeGo)"	2
+"yangzhou (Other)"	11
+"zhenjiang (Linux)"	2
+"zhenjiang (Other)"	10
+"taizhou_jiangsu (Linux)"	2
+"taizhou_jiangsu (Other)"	4
+"suqian (Other)"	3
+"94 (Linux)"	1
+"94 (Other)"	2
+"hangzhou (Linux)"	39
+"hangzhou (Maemo)"	1
+"hangzhou (Other)"	45
+"ningbo (Linux)"	6
+"ningbo (Other)"	23
+"wenzhou (Linux)"	9
+"wenzhou (Other)"	29
+"jiaxing (Linux)"	4
+"jiaxing (Other)"	16
+"huzhou (Linux)"	4
+"huzhou (Other)"	3
+"baoding (Ubuntu)"	2
+"unknown (Chrome OS)"	12
+"unknown (Symbian^3)"	1
+"shaoxing (Android)"	1660
+"shaoxing (Windows)"	7910
+"jinhua (Android)"	2771
+"jinhua (Windows)"	12652
+"quzhou (Android)"	555
+"quzhou (Windows)"	2866
+"zhoushan (Android)"	642
+"zhoushan (Windows)"	1676
+"taizhou (Android)"	2725
+"taizhou (Windows)"	10748
+"lishui (Android)"	1319
+"lishui (Windows)"	3043
+"106 (Android)"	2082
+"106 (Windows)"	14630
+"hefei (Android)"	1408
+"hefei (Windows)"	14419
+"wuhu (Android)"	325
+"wuhu (Windows)"	3369
+"bangbu (Android)"	286
+"bangbu (Windows)"	2951
+"zhangjiakou (Mac OS X)"	9
+"huainan (Android)"	316
+"huainan (Windows)"	3226
+"maanshan (Android)"	260
+"maanshan (Windows)"	2415
+"huaibei (Android)"	208
+"huaibei (Windows)"	1760
+"tongling (Android)"	134
+"tongling (Windows)"	1438
+"anqing (Android)"	185
+"anqing (Windows)"	2667
+"huangshan (Android)"	229
+"huangshan (Windows)"	1510
+"chuzhou (Android)"	95
+"chuzhou (Windows)"	1341
+"fuyang (Android)"	141
+"fuyang (Windows)"	1615
+"suzhou (Android)"	724
+"suzhou (Windows)"	2591
+"chaohu (Android)"	176
+"chaohu (Windows)"	2072
+"chengde (Mac OS X)"	4
+"liuan (Android)"	213
+"liuan (Windows)"	2735
+"bozhou (Android)"	191
+"bozhou (Windows)"	1845
+"chizhou (Android)"	108
+"chizhou (Windows)"	1158
+"xuancheng (Android)"	348
+"xuancheng (Windows)"	2332
+"124 (Android)"	672
+"124 (Windows)"	2214
+"fuzhou_124 (Android)"	3882
+"fuzhou_124 (Windows)"	15819
+"xiamen (Android)"	2653
+"xiamen (Windows)"	11264
+"putian (Android)"	784
+"putian (Windows)"	4891
+"sanming (Android)"	661
+"sanming (Windows)"	2146
+"quanzhou (Android)"	4667
+"quanzhou (Windows)"	11663
+"cangzhou (Mac OS X)"	10
+"zhangzhou (Android)"	1096
+"zhangzhou (Windows)"	3443
+"nanping (Android)"	641
+"nanping (Windows)"	1902
+"longyan (Android)"	755
+"longyan (Windows)"	2329
+"ningde (Android)"	907
+"ningde (Windows)"	2235
+"134 (Android)"	584
+"134 (Windows)"	2651
+"nanchang (Android)"	2078
+"nanchang (Windows)"	11500
+"jingdezhen (Android)"	430
+"jingdezhen (Windows)"	1643
+"pingxiang (Android)"	381
+"pingxiang (Windows)"	1642
+"jiujiang (Android)"	775
+"jiujiang (Windows)"	3206
+"xinyu (Android)"	261
+"xinyu (Windows)"	1424
+"langfang (Mac OS X)"	55
+"yingtan (Android)"	158
+"yingtan (Windows)"	832
+"ganzhou (Android)"	908
+"ganzhou (Windows)"	5722
+"jian (Android)"	325
+"jian (Windows)"	2602
+"yichun_134 (Android)"	647
+"yichun_134 (Windows)"	3235
+"fuzhou_134 (Android)"	491
+"fuzhou_134 (Windows)"	2139
+"shangrao (Android)"	820
+"shangrao (Windows)"	2970
+"146 (Android)"	593
+"146 (Windows)"	7030
+"jinan (Android)"	1881
+"jinan (Windows)"	17230
+"qingdao (Android)"	1454
+"qingdao (Windows)"	19711
+"zibo (Android)"	509
+"zibo (Windows)"	6776
+"hengshui (Mac OS X)"	7
+"zaozhuang (Android)"	368
+"zaozhuang (Windows)"	5358
+"dongying (Android)"	372
+"dongying (Windows)"	4254
+"yantai (Android)"	834
+"yantai (Windows)"	11991
+"weifang (Android)"	691
+"weifang (Windows)"	10990
+"jining (Android)"	637
+"jining (Windows)"	7587
+"taian (Android)"	455
+"taian (Windows)"	5507
+"weihai (Android)"	455
+"weihai (Windows)"	5035
+"rizhao (Android)"	279
+"rizhao (Windows)"	3910
+"laiwu (Android)"	111
+"laiwu (Windows)"	1688
+"linyi (Android)"	737
+"linyi (Windows)"	9247
+"15 (Mac OS X)"	9
+"dezhou (Android)"	284
+"dezhou (Windows)"	4409
+"liaocheng (Android)"	428
+"liaocheng (Windows)"	4578
+"binzhou (Android)"	322
+"binzhou (Windows)"	4364
+"heze (Android)"	304
+"heze (Windows)"	4834
+"164 (Android)"	576
+"164 (Windows)"	3298
+"zhengzhou (Android)"	3478
+"zhengzhou (Windows)"	24785
+"kaifeng (Android)"	435
+"kaifeng (Windows)"	3154
+"luoyang (Android)"	1059
+"luoyang (Windows)"	8023
+"pingdingshan (Android)"	560
+"pingdingshan (Windows)"	4719
+"anyang (Android)"	580
+"anyang (Windows)"	4279
+"taiyuan (Mac OS X)"	46
+"hebi (Android)"	264
+"hebi (Windows)"	1852
+"xinxiang (Android)"	793
+"xinxiang (Windows)"	6222
+"jiaozuo (Android)"	805
+"jiaozuo (Windows)"	5243
+"puyang (Android)"	286
+"puyang (Windows)"	2263
+"xuchang (Android)"	589
+"xuchang (Windows)"	4043
+"luohe (Android)"	247
+"luohe (Windows)"	2342
+"sanmenxia (Android)"	299
+"sanmenxia (Windows)"	2969
+"nanyang (Android)"	608
+"nanyang (Red Hat)"	1
+"nanyang (Windows)"	5617
+"shangqiu (Android)"	531
+"shangqiu (Windows)"	3990
+"xinyang (Android)"	567
+"xinyang (Windows)"	3843
+"datong (Mac OS X)"	9
+"zhoukou (Android)"	402
+"zhoukou (Windows)"	3553
+"zhumadian (Android)"	330
+"zhumadian (Windows)"	2547
+"183 (Android)"	301
+"183 (Windows)"	2298
+"wuhan (Android)"	3881
+"wuhan (Windows)"	31499
+"huangshi (Android)"	372
+"huangshi (Windows)"	3027
+"shiyan (Android)"	354
+"shiyan (Windows)"	3430
+"yichang (Android)"	560
+"yichang (Windows)"	4963
+"xiangfan (Android)"	690
+"xiangfan (Windows)"	5081
+"ezhou (Android)"	273
+"ezhou (Windows)"	2032
+"yangquan (Mac OS X)"	1
+"jingmen (Android)"	845
+"jingmen (Windows)"	3497
+"xiaogan (Android)"	821
+"xiaogan (Windows)"	4287
+"jingzhou (Android)"	559
+"jingzhou (Windows)"	3820
+"huanggang (Android)"	592
+"huanggang (Windows)"	3766
+"xianning (Android)"	1133
+"xianning (Windows)"	3010
+"suizhou (Android)"	226
+"suizhou (Windows)"	1876
+"enshishi (Android)"	277
+"enshishi (Windows)"	1917
+"changzhi (Mac OS X)"	10
+"1 (Chrome OS)"	1
+"201 (Android)"	1019
+"201 (Windows)"	3945
+"changsha (Android)"	13018
+"changsha (Windows)"	20493
+"zhuzhou (Android)"	941
+"zhuzhou (Windows)"	5003
+"xiangtan (Android)"	680
+"xiangtan (Windows)"	3587
+"hengyang (Android)"	795
+"hengyang (Windows)"	4659
+"shaoyang (Android)"	523
+"shaoyang (Windows)"	3220
+"yueyang (Android)"	876
+"yueyang (Windows)"	3803
+"changde (Android)"	555
+"changde (Windows)"	3300
+"zhangjiajie (Android)"	149
+"zhangjiajie (Windows)"	1024
+"jincheng (Mac OS X)"	2
+"yiyang (Android)"	719
+"yiyang (Windows)"	2799
+"chenzhou (Android)"	610
+"chenzhou (Windows)"	3614
+"yongzhou (Android)"	331
+"yongzhou (Windows)"	2687
+"huaihua (Android)"	385
+"huaihua (Windows)"	2863
+"loudi (Android)"	564
+"loudi (Windows)"	2496
+"xiangxi (Android)"	183
+"xiangxi (Windows)"	1842
+"216 (Android)"	6825
+"216 (Windows)"	37353
+"guangzhou (Android)"	12250
+"guangzhou (Windows)"	211773
+"shaoguan (Android)"	349
+"shaoguan (Windows)"	11546
+"shenzhen (Android)"	7743
+"shenzhen (Windows)"	247836
+"shuozhou (Mac OS X)"	1
+"zhuhai (Android)"	20659
+"zhuhai (Windows)"	27461
+"shantou (Android)"	1925
+"shantou (Windows)"	28852
+"foshan (Android)"	2789
+"foshan (Windows)"	74201
+"jiangmen (Android)"	973
+"jiangmen (Windows)"	29745
+"zhanjiang (Android)"	673
+"zhanjiang (Windows)"	19747
+"maoming (Android)"	414
+"maoming (Windows)"	13973
+"zhaoqing (Android)"	624
+"zhaoqing (Windows)"	15737
+"huizhou (Android)"	2195
+"huizhou (Windows)"	41344
+"meizhou (Android)"	421
+"meizhou (Windows)"	14589
+"shanwei (Android)"	510
+"shanwei (Windows)"	6698
+"jinzhongshi (Mac OS X)"	4
+"heyuan (Android)"	291
+"heyuan (Windows)"	9097
+"yangjiang (Android)"	484
+"yangjiang (Windows)"	11442
+"qingyuan (Android)"	434
+"qingyuan (Windows)"	14224
+"dongguan (Android)"	3609
+"dongguan (Windows)"	112041
+"zhongshan (Android)"	1591
+"zhongshan (Windows)"	39318
+"chaozhou (Android)"	690
+"chaozhou (Windows)"	9946
+"jieyang (Android)"	979
+"jieyang (Windows)"	16693
+"yunfu (Android)"	246
+"yunfu (Windows)"	5710
+"238 (Android)"	267
+"238 (Windows)"	2836
+"nanning (Android)"	2077
+"nanning (Windows)"	18983
+"yuncheng (Mac OS X)"	3
+"liuzhou (Android)"	712
+"liuzhou (Windows)"	7059
+"guilin (Android)"	675
+"guilin (Windows)"	6166
+"wuzhou (Android)"	333
+"wuzhou (Windows)"	4341
+"beihai (Android)"	233
+"beihai (Windows)"	1997
+"fangchenggang (Android)"	119
+"fangchenggang (Windows)"	1306
+"qinzhou (Android)"	235
+"qinzhou (Windows)"	2366
+"guigang (Android)"	225
+"guigang (Windows)"	2585
+"yulin_238 (Android)"	434
+"yulin_238 (Windows)"	4647
+"baise (Android)"	176
+"baise (Windows)"	2495
+"hezhou (Android)"	126
+"hezhou (Windows)"	1111
+"xinzhou (Mac OS X)"	6
+"hechi (Android)"	216
+"hechi (Windows)"	2181
+"laibin (Android)"	119
+"laibin (Windows)"	1364
+"chongzuo (Android)"	40
+"chongzuo (Windows)"	370
+"253 (Android)"	95
+"253 (Windows)"	470
+"haikou (Android)"	1857
+"haikou (Windows)"	12047
+"sanya (Android)"	60
+"sanya (Windows)"	519
+"linfen (Mac OS X)"	2
+"lvliang (Mac OS X)"	8
+"275 (Android)"	6160
+"275 (Windows)"	35532
+"276 (Android)"	1364
+"276 (Windows)"	6187
+"chengdu (Android)"	5951
+"chengdu (Windows)"	34956
+"zigong (Android)"	256
+"zigong (Windows)"	2055
+"panzhihua (Android)"	234
+"panzhihua (Windows)"	1688
+"27 (Mac OS X)"	3
+"luzhou (Android)"	402
+"luzhou (Windows)"	2570
+"deyang (Android)"	760
+"deyang (Windows)"	3655
+"mianyang (Android)"	862
+"mianyang (Windows)"	5126
+"guangyuan (Android)"	240
+"guangyuan (Windows)"	1692
+"suining (Android)"	386
+"suining (Windows)"	1939
+"neijiang (Android)"	347
+"neijiang (Windows)"	1932
+"leshan (Android)"	742
+"leshan (Windows)"	4329
+"nanchong (Android)"	618
+"nanchong (Windows)"	3591
+"meishan (Android)"	429
+"meishan (Windows)"	1868
+"yibin (Android)"	496
+"yibin (Windows)"	2740
+"huhehaote (Mac OS X)"	13
+"guangan (Android)"	259
+"guangan (Windows)"	1456
+"dazhou (Android)"	787
+"dazhou (Windows)"	2535
+"yaan (Android)"	202
+"yaan (Windows)"	1218
+"bazhong (Android)"	187
+"bazhong (Windows)"	1056
+"ziyang (Android)"	273
+"ziyang (Windows)"	1786
+"aba (Android)"	94
+"aba (Windows)"	508
+"ganzi (Android)"	104
+"ganzi (Windows)"	440
+"liangshan (Android)"	312
+"liangshan (Windows)"	1807
+"guiyang (Android)"	2459
+"guiyang (Windows)"	8764
+"baotou (Mac OS X)"	13
+"liupanshui (Android)"	269
+"liupanshui (Windows)"	1164
+"zunyi (Android)"	846
+"zunyi (Windows)"	2757
+"anshun (Android)"	266
+"anshun (Windows)"	807
+"tongren (Android)"	268
+"tongren (Windows)"	1695
+"qianxinan (Android)"	219
+"qianxinan (Windows)"	1398
+"bijie (Android)"	343
+"bijie (Windows)"	1394
+"qiandongnan (Android)"	278
+"qiandongnan (Windows)"	1773
+"qiannan (Android)"	260
+"qiannan (Windows)"	1476
+"308 (Android)"	445
+"308 (Windows)"	1889
+"kunming (Android)"	2410
+"kunming (Windows)"	13443
+"qujing (Android)"	270
+"qujing (Windows)"	1979
+"yuxi (Android)"	430
+"yuxi (Windows)"	1689
+"baoshan (Android)"	85
+"baoshan (Windows)"	678
+"zhaotong (Android)"	163
+"zhaotong (Windows)"	1144
+"lijiang (Android)"	122
+"lijiang (Windows)"	651
+"puer (Android)"	62
+"puer (Windows)"	852
+"lincang (Android)"	57
+"lincang (Windows)"	669
+"chuxiong (Android)"	121
+"chuxiong (Windows)"	1002
+"honghe (Android)"	249
+"honghe (Windows)"	2305
+"wenshan (Android)"	98
+"wenshan (Windows)"	1094
+"chifeng (Mac OS X)"	9
+"xishuangbanna (Android)"	94
+"xishuangbanna (Windows)"	994
+"dali (Android)"	189
+"dali (Windows)"	1459
+"dehong (Android)"	211
+"dehong (Windows)"	606
+"nujiang (Android)"	8
+"nujiang (Windows)"	169
+"diqing (Android)"	29
+"diqing (Windows)"	117
+"325 (Android)"	1
+"325 (Windows)"	48
+"lasa (Android)"	58
+"lasa (Windows)"	527
+"changdu (Windows)"	49
+"shannan (Android)"	9
+"shannan (Windows)"	39
+"rikaze (Android)"	5
+"rikaze (Windows)"	29
+"tongliao (Mac OS X)"	2
+"naqu (Windows)"	25
+"ali (Android)"	3
+"ali (Windows)"	46
+"linzhi (Android)"	10
+"linzhi (Windows)"	62
+"333 (Android)"	455
+"333 (Windows)"	2904
+"xian (Android)"	3211
+"xian (Windows)"	31070
+"tongzhou (Android)"	77
+"tongzhou (Windows)"	736
+"baoji (Android)"	414
+"baoji (Windows)"	3595
+"xianyang (Android)"	324
+"xianyang (Windows)"	3736
+"weinan (Android)"	308
+"weinan (Windows)"	3602
+"yanan (Android)"	140
+"yanan (Windows)"	1339
+"eerduosi (Mac OS X)"	9
+"hanzhong (Android)"	192
+"hanzhong (Windows)"	2967
+"yulin_333 (Android)"	323
+"yulin_333 (Windows)"	2815
+"ankang (Android)"	169
+"ankang (Windows)"	1556
+"shangluo (Android)"	119
+"shangluo (Windows)"	1489
+"344 (Android)"	102
+"344 (Windows)"	972
+"lanzhou (Android)"	955
+"lanzhou (Windows)"	7495
+"jiayuguan (Android)"	54
+"jiayuguan (Windows)"	583
+"jinchang (Android)"	27
+"jinchang (Windows)"	567
+"baiyin (Android)"	70
+"baiyin (Windows)"	1049
+"tianshui (Android)"	81
+"tianshui (Windows)"	975
+"hulunbeier (Mac OS X)"	12
+"wuwei (Android)"	60
+"wuwei (Windows)"	777
+"zhangye (Android)"	71
+"zhangye (Windows)"	660
+"pingliang (Android)"	89
+"pingliang (Windows)"	1014
+"jiuquan (Android)"	93
+"jiuquan (Windows)"	1108
+"qingyang (Android)"	86
+"qingyang (Windows)"	992
+"dingxi (Android)"	45
+"dingxi (Windows)"	542
+"longnan (Android)"	68
+"longnan (Windows)"	685
+"linxia (Android)"	36
+"linxia (Windows)"	445
+"gannan (Android)"	14
+"gannan (Windows)"	202
+"359 (Android)"	21
+"359 (Windows)"	135
+"bayannaoer (Mac OS X)"	4
+"xining (Android)"	412
+"xining (Windows)"	2805
+"haidong (Android)"	34
+"haidong (Windows)"	232
+"haibei (Android)"	18
+"haibei (Windows)"	76
+"huangnan (Android)"	5
+"huangnan (Windows)"	29
+"hainanzangzu (Android)"	5
+"hainanzangzu (Windows)"	132
+"guoluo (Android)"	2
+"guoluo (Windows)"	47
+"yushu (Android)"	2
+"yushu (Windows)"	39
+"haixi (Android)"	72
+"haixi (Windows)"	522
+"368 (Android)"	62
+"368 (Windows)"	679
+"yinchuan (Android)"	348
+"yinchuan (Windows)"	4023
+"wulanchabu (Mac OS X)"	1
+"shizuishan (Android)"	69
+"shizuishan (Windows)"	1014
+"wuzhong (Android)"	43
+"wuzhong (Windows)"	700
+"guyuan (Android)"	22
+"guyuan (Windows)"	432
+"zhongwei (Android)"	39
+"zhongwei (Windows)"	506
+"374 (Windows)"	60
+"wulumuqi (Android)"	795
+"wulumuqi (Windows)"	8540
+"kelamayi (Android)"	132
+"kelamayi (Windows)"	1085
+"tulufan (Android)"	18
+"tulufan (Windows)"	408
+"hami (Android)"	71
+"hami (Windows)"	823
+"changji (Android)"	124
+"changji (Windows)"	1672
+"xingan (Mac OS X)"	3
+"boertala (Android)"	31
+"boertala (Windows)"	521
+"bayinguoleng (Android)"	182
+"bayinguoleng (Windows)"	1758
+"akesu (Android)"	129
+"akesu (Windows)"	1370
+"kezilesukeerkezi (Android)"	30
+"kezilesukeerkezi (Windows)"	234
+"kashi (Android)"	109
+"kashi (Windows)"	1231
+"hetian (Android)"	47
+"hetian (Windows)"	351
+"yili (Android)"	144
+"yili (Windows)"	2251
+"tacheng (Android)"	52
+"tacheng (Windows)"	829
+"aletai (Android)"	19
+"aletai (Windows)"	405
+"xilinguole (Mac OS X)"	1
+"393 (Android)"	1260
+"393 (FreeBSD)"	1
+"393 (Windows)"	22968
+"394 (Android)"	1334
+"394 (Windows)"	8955
+"395 (Android)"	58
+"395 (Windows)"	1115
+"396 (Android)"	5
+"396 (Windows)"	48
+"397 (Android)"	480
+"397 (Windows)"	3839
+"398 (Android)"	22
+"398 (Windows)"	203
+"399 (Android)"	257
+"399 (Windows)"	2820
+"alashan (Mac OS X)"	3
+"40 (Mac OS X)"	15
+"shenyang (Mac OS X)"	100
+"dalian (Mac OS X)"	85
+"anshan (Mac OS X)"	13
+"fushun (Mac OS X)"	8
+"benxi (Mac OS X)"	8
+"dandong (Mac OS X)"	6
+"jinzhou (Mac OS X)"	9
+"yingkou (Mac OS X)"	5
+"fuxin (Mac OS X)"	14
+"liaoyang (Mac OS X)"	4
+"panjin (Mac OS X)"	5
+"tieling (Mac OS X)"	1
+"huludao (Mac OS X)"	9
+"changchun (Mac OS X)"	77
+"jilin_city (Mac OS X)"	16
+"siping (Mac OS X)"	9
+"liaoyuan (Mac OS X)"	2
+"tonghua (Mac OS X)"	3
+"songyuan (Mac OS X)"	4
+"yanbian (Mac OS X)"	12
+"65 (Mac OS X)"	2
+"haerbin (Mac OS X)"	63
+"qiqihaer (Mac OS X)"	11
+"jixi (Mac OS X)"	2
+"daqing (Mac OS X)"	18
+"yichun_65 (Mac OS X)"	3
+"jiamusi (Mac OS X)"	1
+"qitaihe (Mac OS X)"	1
+"mudanjiang (Mac OS X)"	12
+"heihe (Mac OS X)"	2
+"suihua (Mac OS X)"	4
+"daxinganling (Mac OS X)"	1
+"79 (Mac OS X)"	1618
+"80 (Mac OS X)"	34
+"nanjing (Mac OS X)"	322
+"wuxi (Mac OS X)"	62
+"xuzhou (Mac OS X)"	32
+"changzhou (Mac OS X)"	40
+"suzhou_jiangsu (Mac OS X)"	188
+"nantong (Mac OS X)"	59
+"lianyungang (Mac OS X)"	9
+"huaian (Mac OS X)"	13
+"yancheng (Mac OS X)"	13
+"yangzhou (Mac OS X)"	19
+"zhenjiang (Mac OS X)"	9
+"taizhou_jiangsu (Mac OS X)"	9
+"suqian (Mac OS X)"	3
+"94 (Mac OS X)"	11
+"hangzhou (Mac OS X)"	292
+"ningbo (Mac OS X)"	95
+"wenzhou (Mac OS X)"	76
+"jiaxing (Mac OS X)"	47
+"huzhou (Mac OS X)"	14
+"unknown (Symbian OS)"	1
+"shaoxing (Mac OS X)"	14
+"jinhua (Mac OS X)"	45
+"quzhou (Mac OS X)"	3
+"zhoushan (Mac OS X)"	7
+"taizhou (Mac OS X)"	22
+"lishui (Mac OS X)"	4
+"106 (Mac OS X)"	28
+"hefei (Mac OS X)"	62
+"wuhu (Mac OS X)"	4
+"bangbu (Mac OS X)"	4
+"huainan (Mac OS X)"	3
+"maanshan (Mac OS X)"	4
+"huaibei (Mac OS X)"	6
+"tongling (Mac OS X)"	3
+"anqing (Mac OS X)"	1
+"huangshan (Mac OS X)"	1
+"chuzhou (Mac OS X)"	2
+"fuyang (Mac OS X)"	1
+"suzhou (Mac OS X)"	1
+"chaohu (Mac OS X)"	8
+"liuan (Mac OS X)"	2
+"bozhou (Mac OS X)"	2
+"chizhou (Mac OS X)"	1
+"xuancheng (Mac OS X)"	5
+"124 (Mac OS X)"	6
+"fuzhou_124 (Mac OS X)"	54
+"xiamen (Mac OS X)"	63
+"putian (Mac OS X)"	5
+"sanming (Mac OS X)"	4
+"quanzhou (Mac OS X)"	28
+"zhangzhou (Mac OS X)"	8
+"nanping (Mac OS X)"	1
+"longyan (Mac OS X)"	7
+"ningde (Mac OS X)"	4
+"134 (Mac OS X)"	4
+"nanchang (Mac OS X)"	27
+"jingdezhen (Mac OS X)"	2
+"pingxiang (Mac OS X)"	5
+"jiujiang (Mac OS X)"	5
+"xinyu (Mac OS X)"	2
+"yingtan (Mac OS X)"	1
+"ganzhou (Mac OS X)"	12
+"jian (Mac OS X)"	3
+"yichun_134 (Mac OS X)"	5
+"fuzhou_134 (Mac OS X)"	3
+"shangrao (Mac OS X)"	2
+"146 (Mac OS X)"	28
+"jinan (Mac OS X)"	91
+"qingdao (Mac OS X)"	129
+"zibo (Mac OS X)"	10
+"zaozhuang (Mac OS X)"	10
+"dongying (Mac OS X)"	11
+"yantai (Mac OS X)"	39
+"weifang (Mac OS X)"	19
+"jining (Mac OS X)"	8
+"taian (Mac OS X)"	7
+"weihai (Mac OS X)"	28
+"rizhao (Mac OS X)"	3
+"laiwu (Mac OS X)"	1
+"linyi (Mac OS X)"	7
+"dezhou (Mac OS X)"	10
+"liaocheng (Mac OS X)"	6
+"binzhou (Mac OS X)"	4
+"heze (Mac OS X)"	8
+"164 (Mac OS X)"	5
+"zhengzhou (Mac OS X)"	115
+"kaifeng (Mac OS X)"	5
+"luoyang (Mac OS X)"	19
+"pingdingshan (Mac OS X)"	3
+"anyang (Mac OS X)"	10
+"xinxiang (Mac OS X)"	11
+"jiaozuo (Mac OS X)"	5
+"puyang (Mac OS X)"	3
+"xuchang (Mac OS X)"	3
+"luohe (Mac OS X)"	2
+"sanmenxia (Mac OS X)"	3
+"nanyang (Mac OS X)"	8
+"shangqiu (Mac OS X)"	9
+"xinyang (Mac OS X)"	7
+"zhoukou (Mac OS X)"	4
+"zhumadian (Mac OS X)"	4
+"183 (Mac OS X)"	7
+"wuhan (Mac OS X)"	145
+"huangshi (Mac OS X)"	5
+"shiyan (Mac OS X)"	8
+"yichang (Mac OS X)"	11
+"xiangfan (Mac OS X)"	9
+"ezhou (Mac OS X)"	8
+"jingmen (Mac OS X)"	7
+"xiaogan (Mac OS X)"	8
+"jingzhou (Mac OS X)"	5
+"huanggang (Mac OS X)"	7
+"xianning (Mac OS X)"	4
+"suizhou (Mac OS X)"	5
+"1 (Symbian OS)"	3
+"201 (Mac OS X)"	22
+"changsha (Mac OS X)"	93
+"zhuzhou (Mac OS X)"	11
+"xiangtan (Mac OS X)"	5
+"hengyang (Mac OS X)"	6
+"shaoyang (Mac OS X)"	7
+"yueyang (Mac OS X)"	8
+"changde (Mac OS X)"	4
+"zhangjiajie (Mac OS X)"	1
+"yiyang (Mac OS X)"	3
+"chenzhou (Mac OS X)"	5
+"yongzhou (Mac OS X)"	2
+"huaihua (Mac OS X)"	1
+"loudi (Mac OS X)"	2
+"xiangxi (Mac OS X)"	5
+"216 (Mac OS X)"	287
+"guangzhou (Mac OS X)"	1589
+"shaoguan (Mac OS X)"	12
+"shenzhen (Mac OS X)"	1427
+"zhuhai (Mac OS X)"	132
+"shantou (Mac OS X)"	42
+"foshan (Mac OS X)"	171
+"jiangmen (Mac OS X)"	62
+"zhanjiang (Mac OS X)"	34
+"maoming (Mac OS X)"	20
+"zhaoqing (Mac OS X)"	17
+"huizhou (Mac OS X)"	79
+"meizhou (Mac OS X)"	11
+"shanwei (Mac OS X)"	3
+"heyuan (Mac OS X)"	5
+"yangjiang (Mac OS X)"	40
+"qingyuan (Mac OS X)"	35
+"dongguan (Mac OS X)"	321
+"zhongshan (Mac OS X)"	92
+"chaozhou (Mac OS X)"	12
+"jieyang (Mac OS X)"	14
+"yunfu (Mac OS X)"	11
+"238 (Mac OS X)"	14
+"nanning (Mac OS X)"	55
+"liuzhou (Mac OS X)"	15
+"guilin (Mac OS X)"	17
+"wuzhou (Mac OS X)"	5
+"beihai (Mac OS X)"	4
+"qinzhou (Mac OS X)"	5
+"guigang (Mac OS X)"	2
+"yulin_238 (Mac OS X)"	1
+"baise (Mac OS X)"	3
+"hezhou (Mac OS X)"	2
+"hechi (Mac OS X)"	2
+"laibin (Mac OS X)"	3
+"253 (Mac OS X)"	2
+"haikou (Mac OS X)"	34
+"sanya (Mac OS X)"	1
+"275 (Mac OS X)"	146
+"276 (Mac OS X)"	15
+"chengdu (Mac OS X)"	236
+"zigong (Mac OS X)"	2
+"panzhihua (Mac OS X)"	1
+"luzhou (Mac OS X)"	1
+"deyang (Mac OS X)"	7
+"mianyang (Mac OS X)"	18
+"guangyuan (Mac OS X)"	2
+"suining (Mac OS X)"	3
+"neijiang (Mac OS X)"	5
+"leshan (Mac OS X)"	7
+"nanchong (Mac OS X)"	13
+"meishan (Mac OS X)"	1
+"yibin (Mac OS X)"	2
+"guangan (Mac OS X)"	4
+"dazhou (Mac OS X)"	7
+"yaan (Mac OS X)"	2
+"bazhong (Mac OS X)"	1
+"ziyang (Mac OS X)"	3
+"ganzi (Mac OS X)"	1
+"liangshan (Mac OS X)"	3
+"guiyang (Mac OS X)"	25
+"liupanshui (Mac OS X)"	2
+"zunyi (Mac OS X)"	5
+"tongren (Mac OS X)"	4
+"qianxinan (Mac OS X)"	1
+"bijie (Mac OS X)"	1
+"qiannan (Mac OS X)"	3
+"308 (Mac OS X)"	8
+"kunming (Mac OS X)"	63
+"qujing (Mac OS X)"	7
+"yuxi (Mac OS X)"	3
+"baoshan (Mac OS X)"	2
+"zhaotong (Mac OS X)"	2
+"lijiang (Mac OS X)"	5
+"puer (Mac OS X)"	2
+"chuxiong (Mac OS X)"	3
+"honghe (Mac OS X)"	5
+"wenshan (Mac OS X)"	1
+"xishuangbanna (Mac OS X)"	1
+"dali (Mac OS X)"	2
+"diqing (Mac OS X)"	1
+"lasa (Mac OS X)"	1
+"ali (Mac OS X)"	1
+"333 (Mac OS X)"	8
+"xian (Mac OS X)"	156
+"baoji (Mac OS X)"	7
+"xianyang (Mac OS X)"	7
+"weinan (Mac OS X)"	5
+"yanan (Mac OS X)"	2
+"hanzhong (Mac OS X)"	7
+"yulin_333 (Mac OS X)"	1
+"ankang (Mac OS X)"	1
+"344 (Mac OS X)"	5
+"lanzhou (Mac OS X)"	31
+"baiyin (Mac OS X)"	1
+"wuwei (Mac OS X)"	1
+"zhangye (Mac OS X)"	1
+"jiuquan (Mac OS X)"	1
+"qingyang (Mac OS X)"	4
+"longnan (Mac OS X)"	1
+"359 (Mac OS X)"	1
+"xining (Mac OS X)"	6
+"guoluo (Mac OS X)"	1
+"368 (Mac OS X)"	1
+"yinchuan (Mac OS X)"	8
+"shizuishan (Mac OS X)"	1
+"wuzhong (Mac OS X)"	3
+"wulumuqi (Mac OS X)"	28
+"kelamayi (Mac OS X)"	1
+"hami (Mac OS X)"	4
+"changji (Mac OS X)"	4
+"bayinguoleng (Mac OS X)"	5
+"akesu (Mac OS X)"	3
+"kashi (Mac OS X)"	2
+"yili (Mac OS X)"	2
+"tacheng (Mac OS X)"	1
+"aletai (Mac OS X)"	1
+"393 (Mac OS X)"	729
+"394 (Mac OS X)"	795
+"395 (Mac OS X)"	81
+"397 (Mac OS X)"	9
+"399 (Mac OS X)"	7
+"fuzhou_124 (Symbian OS)"	1
+"guangzhou (Symbian OS)"	9
+"lanzhou (Symbian OS)"	1
+"unknown (BlackBerry OS)"	3
+"1 (BlackBerry OS)"	2
+"2 (BlackBerry OS)"	1
+"liaoyang (BlackBerry OS)"	1
+"wuxi (BlackBerry OS)"	1
+"hangzhou (BlackBerry OS)"	2
+"unknown (Nokia Series 40)"	1
+"jinan (BlackBerry OS)"	1
+"xiangfan (BlackBerry OS)"	1
+"guangzhou (BlackBerry OS)"	9
+"shenzhen (BlackBerry OS)"	1
+"jiangmen (BlackBerry OS)"	1
+"haikou (BlackBerry OS)"	1
+"275 (BlackBerry OS)"	2
+"guiyang (BlackBerry OS)"	2
+"393 (BlackBerry OS)"	2
+"haerbin (Symbian^3 Anna)"	1
+"changsha (Symbian^3 Anna)"	1
+"guangzhou (Symbian^3 Anna)"	2
+"unknown (BlackBerry Tablet OS)"	5
+"1 (BlackBerry Tablet OS)"	3
+"shijiazhuang (BlackBerry Tablet OS)"	1
+"xingtai (BlackBerry Tablet OS)"	1
+"datong (BlackBerry Tablet OS)"	2
+"shenyang (BlackBerry Tablet OS)"	1
+"nanjing (BlackBerry Tablet OS)"	1
+"wuxi (BlackBerry Tablet OS)"	1
+"ningbo (BlackBerry Tablet OS)"	1
+"106 (BlackBerry Tablet OS)"	1
+"fuzhou_124 (BlackBerry Tablet OS)"	1
+"yingtan (BlackBerry Tablet OS)"	2
+"dezhou (BlackBerry Tablet OS)"	1
+"anyang (BlackBerry Tablet OS)"	4
+"huaihua (BlackBerry Tablet OS)"	1
+"216 (BlackBerry Tablet OS)"	1
+"shenzhen (BlackBerry Tablet OS)"	1
+"shantou (BlackBerry Tablet OS)"	1
+"foshan (BlackBerry Tablet OS)"	1
+"jiangmen (BlackBerry Tablet OS)"	1
+"dongguan (BlackBerry Tablet OS)"	1
+"zhongshan (BlackBerry Tablet OS)"	1

@@ -1,0 +1,273 @@
+Testing started at 20:34 ...
+C:\Users\nicka\PycharmProjects\hadoop_hw3\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2017.3.4\helpers\pycharm\_jb_unittest_runner.py" --path C:/Users/nicka/PycharmProjects/hadoop_hw3/src/tests/test_for_job.py
+Launching unittests with arguments python -m unittest C:/Users/nicka/PycharmProjects/hadoop_hw3/src/tests/test_for_job.py in C:\Users\nicka\PycharmProjects\hadoop_hw3\src\tests
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+No configs specified for inline runner
+ignoring partitioner keyword arg (requires real Hadoop): 'org.apache.hadoop.mapred.lib.KeyFieldBasedPartitioner'
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+stream_output() is deprecated and will be removed in v0.7.0. use mrjob.util.to_lines(runner.cat_output()) instead.
+parse_output_line() is deprecated and will be removed in v0.7.0; use parse_output() instead.
+[WinError 5] Отказано в доступе: 'C:\\Users\\nicka\\AppData\\Local\\Temp\\city_stats_job.nicka.20180629.173413.465807\\step\\000\\cache\\city.en.txt'
+Traceback (most recent call last):
+  File "C:\Users\nicka\PycharmProjects\hadoop_hw3\venv\lib\site-packages\mrjob\runner.py", line 615, in _cleanup_local_tmp
+    shutil.rmtree(self._local_tmp_dir)
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 494, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 384, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 384, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 384, in _rmtree_unsafe
+    _rmtree_unsafe(fullname, onerror)
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\nicka\AppData\Local\Programs\Python\Python36-32\lib\shutil.py", line 387, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Отказано в доступе: 'C:\\Users\\nicka\\AppData\\Local\\Temp\\city_stats_job.nicka.20180629.173413.465807\\step\\000\\cache\\city.en.txt'
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+No configs specified for inline runner
+ignoring partitioner keyword arg (requires real Hadoop): 'org.apache.hadoop.mapred.lib.KeyFieldBasedPartitioner'
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+configure_options() is deprecated and will be removed in v0.7.0; please use configure_args() instead.
+add_file_option() is deprecated and will be removed in v0.7.0. Use add_file_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+add_passthrough_option() is deprecated and will be removed in v0.7.0. Use add_passthru_arg() instead.
+stream_output() is deprecated and will be removed in v0.7.0. use mrjob.util.to_lines(runner.cat_output()) instead.
+parse_output_line() is deprecated and will be removed in v0.7.0; use parse_output() instead.
+
+
+Ran 2 tests in 1.607s
+
+OK
