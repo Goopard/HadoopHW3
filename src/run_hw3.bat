@@ -19,7 +19,7 @@ ssh root@localhost -p 2222 command hadoop fs -mkdir /user/raj_ops/input/
 ssh root@localhost -p 2222 command hadoop fs -copyFromLocal /usr/jobs/auto_test/input/* /user/raj_ops/input/
 ssh root@localhost -p 2222 command hadoop fs -copyFromLocal /usr/jobs/auto_test/city.en.txt /user/raj_ops/city.en.txt
 
-ssh root@localhost -p 2222 command "python3 /usr/jobs/auto_test/test.py -r hadoop hdfs:///user/raj_ops/input/ --hadoop-streaming-jar=/usr/hdp/2.6.4.0-91/hadoop-mapreduce/hadoop-streaming.jar --cities=hdfs:///user/raj_ops/city.en.txt > /usr/jobs/auto_test/output.txt --partitioner --reduces=1"
+ssh root@localhost -p 2222 command "python3 /usr/jobs/auto_test/test.py -r hadoop hdfs:///user/raj_ops/input/ --hadoop-streaming-jar=/usr/hdp/2.6.4.0-91/hadoop-mapreduce/hadoop-streaming.jar --cities=hdfs:///user/raj_ops/city.en.txt > /usr/jobs/auto_test/output.txt --partitioner --reduces=5"
 
 scp -P 2222 root@localhost:/usr/jobs/auto_test/output.txt ..\output\output.txt
 

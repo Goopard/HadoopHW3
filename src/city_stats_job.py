@@ -1,5 +1,4 @@
 from mrjob.job import MRJob
-from mrjob.protocol import PickleProtocol
 import re
 from user_agents import parse
 
@@ -8,11 +7,11 @@ class CityStatsJob(MRJob):
     """
     This job calculates the amount of high-bid priced (with price more than value of the argument --min_price) per city.
     """
-    INTERNAL_PROTOCOL = PickleProtocol
-
     KEY_FIELD_SEPARATOR = ';'
 
-    REGEXP = re.compile('([a-z\d]+)\s+(\d+)\s+(\d+)\s+([\w\d~]+)\s+(?P<user_agent>.*)\s+([\d]+\.[\d]+\.[\d]+\.\*)\s+([\w\d]+)\s+(?P<city_id>[\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+(?P<price>[\w\d]+)')
+    REGEXP = re.compile('([a-z\d]+)\s+(\d+)\s+(\d+)\s+([\w\d~]+)\s+(?P<user_agent>.*)\s+([\d]+\.[\d]+\.[\d]+\.\*)\s+'
+                        '([\w\d]+)\s+(?P<city_id>[\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+'
+                        '([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+([\w\d]+)\s+(?P<price>[\w\d]+)')
 
     def partitioner(self):
         """
@@ -36,12 +35,13 @@ class CityStatsJob(MRJob):
 
     def jobconf(self):
         """
-        Configuring the JOBCONF in case the --partitioner is enabled.
+        Configuring the JOBCONF in case the --partitioner is enabled and setting number of reducers equal to --reduces.
         """
         conf = super().jobconf()
+        if self.options.reduces > 0:
+            conf.update({'mapreduce.job.reduces': self.options.reduces})
         if self.options.partitioner:
-            enable_partitioner = {'mapreduce.job.reduces': self.options.reduces,
-                                  'mapreduce.map.output.key.field.separator': self.KEY_FIELD_SEPARATOR,
+            enable_partitioner = {'mapreduce.map.output.key.field.separator': self.KEY_FIELD_SEPARATOR,
                                   'mapreduce.partition.keypartitioner.options': '-k2'}
             conf.update(enable_partitioner)
         return conf
